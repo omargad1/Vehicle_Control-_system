@@ -1,0 +1,22 @@
+/*
+ * traial.c
+ *
+ *  Created on: Aug 20, 2022
+ *      Author: user
+ */
+
+#include <stdio.h>
+# include "function.h"
+int main (){
+	char input;
+	setbuf(stdout,NULL);
+	while(1){
+		//print_menu();
+		printf("a. Turn on the vehicle engine\n");
+			printf("b. Turn off the vehicle engine\n");
+			printf("c. Quit the system\n\n");
+		scanf(" %c",&input);
+		choice( input);
+	}
+	return 0;
+}

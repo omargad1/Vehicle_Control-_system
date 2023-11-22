@@ -1,0 +1,9 @@
+LaunchTargetManager/configs/c_project.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/tr.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:tr.exe,org.eclipse.launchbar.core.descriptorType.default\:c_project.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:c_project.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:c_project.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
